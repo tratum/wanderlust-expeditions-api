@@ -1,0 +1,79 @@
+[
+    {
+        "location": "Kasol",
+        "subText": "Mini Israel in Himachal Pradesh",
+        "desc": "Enjoy a memorable mountain vacation at Kasol. You will love trekking, camping, festivals and parties. Kasol is also very popular among relaxation-seekers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kasol/mmt/destination/m_destination-kasol-landscape_l_400_640.jpg",
+        "uid": "9af6e776-1d57-457f-84d0-b769df19f0ef"
+    },
+    {
+        "location": "Lansdowne",
+        "subText": "Pretty Cantonment Town in Uttarakhand",
+        "desc": "Lansdowne is the perfect getaway for mountain lovers. You can expect intense cold weather with sub zero temperatures. Don't forget to spend some time relaxing at Lansdowne.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/landsdown/mmt/destination/m_destination-lansdowne-landscape_l_400_640.jpg",
+        "uid": "978c7f1d-a0d4-44e9-8dac-f750022370b7"
+    },
+    {
+        "location": "Dalhousie",
+        "subText": "A Little Paradise in Himachal Pradesh",
+        "desc": "Prepare to be wooed by the mesmerizing mountains of Leh. You will love sightseeing and the surreal vistas of snow-capped mountains. Leh is also known for its unique wildlife.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/dalhousie/mmt/destination/m_destination_dalhousie_landscape_l_362_579.jpg",
+        "uid": "330bb402-e37d-4e3a-ad78-30b6a955b6d6"
+    },
+    {
+        "location": "Shimla",
+        "subText": "Hub of Natural Bounties and Winter Sports",
+        "desc": "Let the mighty mountains of Shimla raise your spirits! You will love sightseeing, paragliding, hiking, camping, and trekking. Shimla is also an ideal destination for a relaxing break.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/shimla/mmt/destination/m_landscape_l_400_640.jpg",
+        "uid": "fd2fef5a-72a5-4cdd-a43a-a0da152e668d"
+    },
+    {
+        "location": "Wayanad",
+        "subText": "Green Paradise in North-East Kerala",
+        "desc": "Enjoy a memorable mountain vacation at Wayanad. You can expect hot afternoons and pleasant evenings. You can also enjoy the various adventure activities at Wayanad.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/wayanad/mmt/destination/m_destination-wayanad-landscape_l_400_640.jpg",
+        "uid": "7b04eb36-2259-4c80-bf7e-6565807b8050"
+    },
+    {
+        "location": "Leh",
+        "subText": "White Paradise in Ladakh",
+        "desc": "Prepare to be wooed by the mesmerizing mountains of Leh. You will love sightseeing and the surreal vistas of snow-capped mountains. Leh is also known for its unique wildlife.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/leh/mmt/destination/m_leh-landscape_l_400_640.jpg",
+        "uid": "fc839842-03a9-4b2e-80a3-991a7e27136a"
+    },
+    {
+        "location": "Pahalgam",
+        "subText": "The Base Camp for Amarnath Yatra",
+        "desc": "For the best mountain views, head to Pahalgam. You will love soaking in lush green surroundings and exploring the various trekking trails. Pahalgam is also an ideal destination for a relaxing break.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pahalgam/mmt/destination/m_Pahalgam_l_477_714.jpg",
+        "uid": "685b2bd7-079b-473b-81bf-52c84352531d"
+    },
+    {
+        "location": "Gulmarg",
+        "subText": "Heaven in the White Hills of Kashmir",
+        "desc": "If mountains make you feel alive, then head to Gulmarg. You can expect the temperatures drop down to below freezing. Gulmarg is also very popular among relaxation-seekers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gulmarg/mmt/destination/m_destination-gulmarg-landscape_l_400_640.jpg",
+        "uid": "fafabb36-6ec4-4164-858a-780275d4336a"
+    },
+    {
+        "location": "Coonoor",
+        "subText": "A Serene Hill Station in Tamil Nadu",
+        "desc": "If crisp air and altitude feel like home, then the mountains of Coonoor are calling! You will love trekking and sightseeing. Coonoor is also an ideal destination for a relaxing break.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/coonoor/mmt/destination/m_destination-coonoor-landscape_l_400_640.jpg",
+        "uid": "37a0d528-7335-4511-88ce-8b99c82ec23c"
+    },
+    {
+        "location": "Lavasa",
+        "subText": "Charming Hill City in Maharashtra",
+        "desc": "Prepare to be wooed by the mesmerizing mountains of Lavasa. You will love sightseeing and picnicking. Lavasa is also very popular among relaxation-seekers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lavasa/mmt/destination/m_destination_lavasa_landscape_l_357_571.jpg",
+        "uid": "db992254-2385-4fb9-b6e8-7b5af96934e3"
+    },
+    {
+        "location": "Ananthagiri Hills, Telangana",
+        "subText": "Scenic Hill Station in Telangana",
+        "desc": "For the best mountain views, head to Ananthagiri. You will love indulging in adventure activities, spotting birds and animals, and the mesmerizing greenery. Ananthagiri also offers a wide range of adventure activities.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/anantagiri/mmt/destination/m_Anantagiri-landscape_l_400_640.jpg",
+        "uid": "7adc005f-1449-4c4c-973a-072073ad262c"
+    }
+]

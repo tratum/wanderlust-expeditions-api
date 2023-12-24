@@ -1,0 +1,142 @@
+[
+    {
+        "location": "Havelock Island, Andaman",
+        "subText": "Picturesque Tropical Getaway in the Andamans",
+        "desc": "Also known as Swaraj Island, Havelock Island is a part of Ritchies Archipelago in the Andamans. Its dazzling white sand beaches and fascinating coral reefs are admired by nature lovers from around the world.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/havelock/mmt/destination/m_destination_havelock_landscape_l_400_640.jpg",
+        "uid": "1d0881a8-8168-4622-8c01-b1bfd230cfbc"
+    },
+    {
+        "location": "Goa",
+        "subText": "Popular for beaches and nightlife",
+        "desc": "Popularly known as Indias party capital, Goa seduces travellers from all around the globe with its boho beaches, ancient churches, majestic forts and unbeatable nightlife!",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Goa_1_l_1414_2121.jpg",
+        "uid": "ffcb58e1-a6cb-41e9-a726-7c4beb32dbc6"
+    },
+    {
+        "location": "Manali, Himachal Pradesh",
+        "subText": "Say hello to hippie villages and scenic valleys.",
+        "desc": "Nestled on the banks of River Beas, Manali will take your breath away with its snow-kissed peaks, lush valleys and heart-pumping adventure experiences in the heart of Himalayas.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/manali/mmt/destination/m_Landscape_l_400_640.jpg",
+        "uid": "f8e34c83-027c-4634-89a5-80f6feaf6712"
+    },
+    {
+        "location": "Srinagar, Jammu & Kashmir",
+        "subText": "Paradise on the Banks of Jhelum",
+        "desc": "Jahangirs heaven on earth, Srinagar offers the picturesque Dal Lake, breath-taking mountain views, stunning Mughal gardens and sprawling orchards.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Srinagar_4_l_800_1200.jpg",
+        "uid": "918b4835-3219-41a9-969a-4e51338fcca6"
+    },
+    {
+        "location": "Munnar, Kerala",
+        "subText": "Home of Rolling Tea Terrains & Waterfalls",
+        "desc": "The biggest tea-planation area in South India, Munnar is also home to several endangered species. It is a spectacular stretch of silent mountains and swaying swathes of thick forests.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Munnar_1_l_1025_1869.jpg",
+        "uid": "6e7f3c5e-54e1-440d-a918-ed82490cc203"
+    },
+    {
+        "location": "Alleppey, Kerala",
+        "subText": "Nature Lovers Paradise in Kerala",
+        "desc": "Also known as Alappuzha, Aleppey will take your breath away with its emerald green backwaters, palm-fringed lakes and beautiful stretches of lush paddy fields in the heart of Kerala.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/alleppey/mmt/destination/m_destination-alleppey-landscape_l_400_640.jpg",
+        "uid": "3964b7ed-d85d-4da1-acde-e15a65da4e71"
+    },
+    {
+        "location": "Gangtok, Sikkim",
+        "subText": "A Spiritual Hill Getaway in Sikkim",
+        "desc": "Dotted with sacred Buddhist monasteries, the largest town in Sikkim, Gangtok, impresses with crystalline glacial lakes and dense forests and stunning views of the Himalayan mountains.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gangtok/mmt/destination/m_Gangtok_activity_heriage_l_687_1061.jpg",
+        "uid": "c5687c9d-4b6d-437f-8c63-b6733229ddcd"
+    },
+    {
+        "location": "Coorg, Karnataka",
+        "subText": "Scenic Hill Station in Karnataka",
+        "desc": "Unwind in the lap of nature in Coorg where aromatic coffee and spice plantations, lush green hills, cascading waterfalls and a distinct old-world charm sooth the senses.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/coorg/mmt/destination/m_destination-coorg-landscape_l_400_640.jpg",
+        "uid": "c8844715-a68b-4e88-a455-7b79aee305a9"
+    },
+    {
+        "location": "Shimla, Himachal Pradesh",
+        "subText": "Popular for Fascinating Toy Train Rides",
+        "desc": "The erstwhile British Summer Capital is packed with colonial-era architectural marvels, picturesque hilly hotspots, and a toy train tagged as a UNESCO World Heritage Site.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Shimla_3_l_800_1200.jpg",
+        "uid": "883114ae-0001-4143-b4fc-871af494b6ed"
+    },
+    {
+        "location": "Gulmarg, Jammu & Kashmir",
+        "subText": "Heaven in the White Hills of Kashmir",
+        "desc": "Gulmarg is the crowning glory of Jammu & Kashmir and is located 2,650 meters above sea level. Known as the Meadow of Flowers, it boasts of the worlds highest golf-course.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gulmarg/mmt/destination/m_destination-gulmarg-landscape_l_400_640.jpg",
+        "uid": "55e32a18-25ba-4c43-a7a7-791279e01076"
+    },
+    {
+        "location": "Ooty, TamilNadu",
+        "subText": "Colonial Hill Station in Tamil Nadu",
+        "desc": "Officially called Ootacamund, the hill-town is better known by its nicknameOoty. It is loved by Bollywood directors, honeymooners, families, and even backpackers, for its mountains, lakes, gardens, and waterfalls.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/destination/m_Ooty_activity_mountains_l_368_613.jpg",
+        "uid": "07a6ea81-fb18-4c80-a853-9156a5bf1698"
+    },
+    {
+        "location": " Darjeeling, West Bengal",
+        "subText": "Majestic Queen of the Hills",
+        "desc": "At the foothills of the Himalayas, Darjeeling abounds in timeless serenity and attracts holidaymakers with its rolling tea plantations, views of Mount Kanchenjunga and age-old monasteries.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Darjeeling_2_l_658_1200.jpg",
+        "uid": "d63c91b6-b504-48e1-be18-37180f6da9cd"
+    },
+    {
+        "location": "Dalhousie, Himachal Pradesh",
+        "subText": "A Little Paradise in Himachal Pradesh",
+        "desc": "Located in the lush green surroundings of Chamba district in Himachal Pradesh, Dalhousie is a serene town that still has its natural beauty well preserved.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/dalhousie/mmt/destination/m_destination_dalhousie_landscape_l_362_579.jpg",
+        "uid": "d5c56cda-fcb3-4863-be90-95d0638ae61e"
+    },
+    {
+        "location": "Auli, Uttarakhand",
+        "subText": "A Popular Ski Destination",
+        "desc": "Dotted with snowy peaks and oak-fringed slopes, Auli is a charming hill station nestled in the Chamoli district of Uttarakhand. A haven for ski lovers, it offers jaw-dropping vistas of Nanda Devi, Kamet and Dunagiri peaks.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/aulidestimage/mmt/activities/m_Auli_MarNew_2_l_800_1200.png",
+        "uid": "f3498d74-c10e-4f24-ace9-a2e845258714"
+    },
+    {
+        "location": "Udaipur, Rajasthan",
+        "subText": "The City of Ancient Palaces & Lakes",
+        "desc": "Snuggled along the banks of Lake Pichola with a gorgeous backdrop of the Aravalli Hills, Udaipur charms you with its age-hold heritage and culture mirrored in stately palaces, magnificent temples and sparkling lakes.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Udaipur_4_l_800_1200.jpg",
+        "uid": "f382ce45-1fe3-4af3-affa-dbad6dac0dee"
+    },
+    {
+        "location": "Musoorie, Uttarakhand",
+        "subText": "A Charming Hilly Escape from Delhi",
+        "desc": "Cosily nestled in the Garhwal hills of Uttarakhand, Mussoorie is a scenic hill station dotted with mesmerizing waterfalls, towering mountain peaks, and a string of colonial buildings.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/mussorrie_img/mmt/activities/m_Mussoorie_image_landscape_p_724_543.jpg",
+        "uid": "4fcd2da5-5f28-4f71-9662-bd9947cd42e7"
+    },
+    {
+        "location": "Jaipur, Rajasthan",
+        "subText": "The capital and the largest city of Rajasthan",
+        "desc": "Fondly known as the Pink City and now declared as a UNESCO World Heritage Site, Jaipurs historic forts, majestic palaces and ancient temples make it a perfect royal getaway in the heart of Aravallis.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/DestMainImgLscape/mmt/activities/m_Jaipur_1_l_787_1181.jpg",
+        "uid": "147ba2aa-b75b-4274-b22f-7e642104c2e1"
+    },
+    {
+        "location": "shillong, Meghalaya",
+        "subText": "Green Paradise in Meghalaya",
+        "desc": "The Scotland of the East, Shillong offers scenic vistas complete with lakes, waterfalls and mountain peaks that make it one of the prettiest hill stations in the region.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/new_dest_imagemar/mmt/activities/m_Shillong_1_l_658_1200.jpg",
+        "uid": "7537f154-f20d-4957-9281-5fada7a7e9d1"
+    },
+    {
+        "location": "Pondicherry",
+        "subText": "Bewitching French City",
+        "desc": "A fascinating, small town with enough elements to charm its visitors, Pondicherry whose official name was changed to Puducherry in 2006, was once the largest French colony in India.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pondicherry/mmt/destination/m_Pondicherry_activity_beach_l_382_691.jpg",
+        "uid": "a80b967f-cabc-4aaf-bc53-8ef279363f90"
+    },
+    {
+        "location": "Wanayad, Kerala",
+        "subText": "Green Paradise in North-East Kerala",
+        "desc": "Located on the southern tip of the Deccan plateau, Wayanad is home to clear lakes, dense jungles, and deep valleys. This weekend getaway from Bengaluru, is a paradise for trekkers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/wayanad/mmt/destination/m_destination-wayanad-landscape_l_400_640.jpg",
+        "uid": "ad1e6769-97db-42e7-a088-29c79e1ae296"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "location": "Goa",
+        "subText": "Popular for Beaches & Nightlife",
+        "desc": "Get ready for an amazing beach vacation at Goa. You can expect very hot weather with very high humidity levels. You can also enjoy the various adventure activities in Goa.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/goa/mmt/destination/m_destination-goa-landscape_l_400_640.jpg",
+        "uid": "22327295-0cb2-4eb5-af7c-0989bcec561b"
+    },
+    {
+        "location": "Maldives",
+        "subText": "A Stunning Tropical Getaway",
+        "desc": "A delightful beach vacay awaits you at Maldives. You will love the beach activities and island hopping. Maldives is also an ideal destination for a relaxing break.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/maldives/mmt/destination/m_Maldives_l_400_640.jpg",
+        "uid": "fd01b3bb-e8f0-4d05-8fc1-4c0854ea719a"
+    },
+    {
+        "location": "Lakshadweep",
+        "subText": "Tropical Band of Islands",
+        "desc": "Lakshadweep is a much loved beach destination. You can expect summer heat and the temperature rising upto 32 degree Celsius. Lakshadweep is also very popular among relaxation-seekers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lakshadweep/mmt/destination/m_Lakshadweep_l_580_870.jpg",
+        "uid": "4dbacd2a-4288-4926-996d-4cbecc9e5a8a"
+    },
+    {
+        "location": "Pondicherry",
+        "subText": "Bewitching French City",
+        "desc": "If you are a beach lover, you must head to Puducherry. You can expect the city is at its hottest during this time. Puducherry is a hot favourite among foodies too.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pondicherry/mmt/destination/m_destination-pondicherry-landscape_l_400_640.jpg",
+        "uid": "5f175fc7-aa17-4934-aad5-a0c3c7ceb759"
+    },
+    {
+        "location": "Bali",
+        "subText": "Tropical Beach Paradise",
+        "desc": "If you love beaches, then Bali is the place to go! You can expect frequent heavy rainfalls with high humidity levels. The local cuisines at Bali are worth trying out too.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bali/mmt/destination/m_bali_l_393_629.jpg",
+        "uid": "e01d2131-059c-4f42-a324-c7b0e2c53b61"
+    },
+    {
+        "location": "Alibaug",
+        "subText": "Scenic Coastal Town In Maharashtra",
+        "desc": "Alibagh is extremely popular for its beautiful beaches. You can expect hot And Humid Weather. The Temperature Tends To Go Very High. You can also unwind amidst the tranquil surroundings of Alibagh.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/alibaugh/mmt/destination/m_destination-alibagh-landscape_l_400_640.jpg",
+        "uid": "63ce20a8-b4ab-4c13-aac8-3fab29ac6b2c"
+    },
+    {
+        "location": "Kovalam",
+        "subText": "Scenic Beach Town in Kerala",
+        "desc": "A delightful beach vacay awaits you at Kovalam. You will love water sports and beach activities. Kovalam is also very popular among relaxation-seekers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kovalam/mmt/destination/m_destination-kovalam-landscape_l_400_640.jpg",
+        "uid": "2c513e9f-a239-4cca-af6e-a39ee6108e66"
+    },
+    {
+        "location": "Gokarna",
+        "subText": "Scenic Temple Town in Karnataka",
+        "desc": "Take your beach love to Gokarna. You can expect extremely hot and humid weather. Also, don't miss the pilgrimage sites at Gokarna.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/Ganapatipule/mmt/destination/m_destination_ganpatipule_landscape_l_400_640.jpg",
+        "uid": "d63a8105-e437-47f9-9f6c-7a77285294db"
+    },
+    {
+        "location": "Varkala",
+        "subText": "A Tranquil Coastal Town in Kerala",
+        "desc": "Come and fall in love with the beach vibe of Varkala. You will love indulging in water sports, exploring the tourist attractions and attending the local festivals. Varkala is also very popular among relaxation-seekers.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/varkala/mmt/destination/m_destination_Varkala_landscape_l_400_640.jpg",
+        "uid": "60b35d52-d93c-43ce-8836-150f8f78b368"
+    },
+    {
+        "location": "Krabi",
+        "subText": "Tropical Paradise in Thailand",
+        "desc": "Krabi is home to serene beaches. You will love the beaches and water sports. Krabi is also an ideal destination for a relaxing break.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/krabi/mmt/destination/m_krabi-landscape_l_400_640.jpg",
+        "uid": "ee8b5c0d-a619-467c-b151-48d47309b31a"
+    },
+    {
+        "location": "Havelock Island",
+        "subText": "Picturesque Tropical Getaway in the Andamans",
+        "desc": "A delightful beach vacay awaits you at Havelock. You can expect extremely hot days with temperat. Maldives is also an ideal destination for a relaxing break.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/havelock/mmt/destination/m_destination_havelock_landscape_l_400_640.jpg",
+        "uid": "00968b2d-0ac2-4957-9db7-486874007423"
+    }
+]

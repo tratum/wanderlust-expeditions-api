@@ -1,0 +1,79 @@
+[
+    {
+        "location": "Coonoor",
+        "subText": "A Serene Hill Station in Tamil Nadu",
+        "desc": "If trekking is your first love, then Coonoor is calling out to you. You will love trekking and sightseeing. Also, do not miss the spellbinding mountain views at Coonoor.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/coonoor/mmt/destination/m_destination-coonoor-landscape_l_400_640.jpg",
+        "uid": "7f228afc-e551-4157-bd70-39b793bebc8d"
+    },
+    {
+        "location": "Dalhousie",
+        "subText": "A Little Paradise in Himachal Pradesh",
+        "desc": "Trek through the deep valleys of Dalhousie to satiate the adventure-lover in you! You will love sightseeing, rafting, trekking, hiking, and river crossing. The mountain views from Dalhousie are an added bonus.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/dalhousie/mmt/destination/m_destination_dalhousie_landscape_l_362_579.jpg",
+        "uid": "ddb2e2b3-ee15-492e-a601-19ef89e17f0e"
+    },
+    {
+        "location": "Kasauli",
+        "subText": "Colonial-Era Retreat in Himachal Pradesh",
+        "desc": "Pack your trekking gear and head to Kasauli for a delightful vacay. You can expect chilly but enjoyable weather. The mountain vistas at Kasauli are spectacular too.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kasauli/mmt/destination/m_destination-kasauli-landscape_l_400_640.jpg",
+        "uid": "4f0a3ab2-46ae-4be5-a4ed-f425b9e550dd"
+    },
+    {
+        "location": "Shillong",
+        "subText": "Green Paradise in Meghalaya",
+        "desc": "Have an unforgettable trekking experience at Shillong. You will love sightseeing and the lush green landscapes. Additionally, go wildlife spotting at Shillong.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/shillong/mmt/destination/m_shillong-landscape_l_400_640.jpg",
+        "uid": "7d9ddad0-6959-4b37-bb77-a09680c6b090"
+    },
+    {
+        "location": "Nandi Hills",
+        "subText": "Ancient Hill Fortress in Karnataka",
+        "desc": "Trek to your heart's content at Nandi Hills. You can expect slightly higher temperatures with a mild summer breeze. Nandi Hills also has many pilgrimage sites.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/nandi-hills/mmt/destination/m_destination-nandi-hills-landscape_l_400_640.jpg",
+        "uid": "49b7a8b2-ce7a-41dc-a803-9cd3666402ce"
+    },
+    {
+        "location": "Leh",
+        "subText": "White Paradise in Ladakh",
+        "desc": "Leh is famous for its scenic trekking routes. You will love sightseeing and the surreal vistas of snow-capped mountains. Leh is also known for its unique wildlife.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/leh/mmt/destination/m_leh-landscape_l_400_640.jpg",
+        "uid": "523862f6-255b-4722-8991-633e727518a3"
+    },
+    {
+        "location": "Lansdowne",
+        "subText": "Pretty Cantonment Town in Uttarakhand",
+        "desc": "Trek your way through the scenic landscapes of Lansdowne. You can expect intense cold weather with sub zero temperatures. You will also enjoy exploring the mountains at Lansdowne.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/landsdown/mmt/destination/m_destination-lansdowne-landscape_l_400_640.jpg",
+        "uid": "e36ffc41-68b2-4b7f-8c18-1c0e1c13e790"
+    },
+    {
+        "location": "Mahabaleshwar",
+        "subText": "The Strawberry Capital of Maharashtra",
+        "desc": "Come and trek through the gorgeous hillscapes of Mahabaleshwar. You can expect pleasant weather with slightly high temperatures. Don't forget to explore the beautiful mountains around Mahabaleshwar.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/mahabaleshwar/mmt/destination/m_destination-mahabaleshwar-landscape_l_400_640.jpg",
+        "uid": "fa7c0039-0119-4c5f-9cbc-4ea9ba431976"
+    },
+    {
+        "location": "Paro",
+        "subText": "Scenic Small Town in Bhutan",
+        "desc": "Paro is known to be a trekker's paradise. You will love the festivals and lush valley views. Paro is also popular for its heritage monuments.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/paro/mmt/destination/m_paro-landscape_l_400_640.jpg",
+        "uid": "052f0202-c7f0-4f96-89a4-fd69c3035ebe"
+    },
+    {
+        "location": "Kasol",
+        "subText": "Mini Israel in Himachal Pradesh",
+        "desc": "If trekking is your first love, then Kasol is calling out to you. You will love trekking, camping, festivals and parties. You will also enjoy exploring the mountains at Kasol.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kasol/mmt/destination/m_destination-kasol-landscape_l_400_640.jpg",
+        "uid": "d7831199-a5d6-4943-af1b-bb6802584113"
+    },
+    {
+        "location": "Ladakh",
+        "subText": "Land of Ethereal Beauty",
+        "desc": "Leh (Ladakh) is famous for its scenic trekking routes. You will love the countryside, Buddhist monasteries, and adventure activities. The wildlife spottings at Leh (Ladakh) are an added bonus.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/ladakh/mmt/destination/m_Destination_Ladakh_l_824_1235.jpg",
+        "uid": "e84fa3a0-eee2-45ab-9789-b1b1ab721efa"
+    }
+]

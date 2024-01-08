@@ -2,73 +2,73 @@
     {
         "location": "Beach Destinations",
         "desc": "Imagine strolling on a pristine beach and relishing incredible seafood without a worry in the world! Does that sound like your dream vacation? Plan a holiday to a beach destination and enjoy adrenalin pumping sports activities with your loved ones.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/beachDestination.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/beachDestination.jpg",
         "uid": "ec446417-1b55-4a5e-a2d1-508e3d82a8c8"
     },
     {
         "location": "Hills & Mountains",
         "desc": "Answer the call of the mountains with specially curated holiday ideas. Treat the nature lover in you to the serene bliss of lofty hills and explore hidden gems on an epic adventure.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/hills_Mountains.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/hills_Mountains.jpg",
         "uid": "b3187c01-8f9f-419d-bd2c-7848411b0839"
     },
     {
         "location": "Heritage Destinations",
         "desc": "Explore this list of heritage destinations and plan a holiday to visit historical monuments in UNESCO-identified heritage sites. Marvel at the stories and legacies of majestic dynasties while you walk through their historic lanes.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritage.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/heritage.jpg",
         "uid": "de7fa7cf-9a68-49d2-ae31-a58827d65947"
     },
     {
         "location": "Honeymoon Hotspots",
         "desc": "Your honeymoon has to be the most memorable vacation of your life! Choose from a variety of pocket-friendly destinations from solitary beaches, picturesque hills, snow-clad mountains, relaxing yet exotic resorts to adventurous excursions.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/honeymoon.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/honeymoon.jpg",
         "uid": "3e110390-36ac-488a-bf79-9bcf700c1a7e"
     },
     {
         "location": "Getaways For The Weekend",
         "desc": "Recharge after a hectic week's work with an idyllic trip over the weekend. Experience peace at a resort nestled in nature's lap or feel your heart race with adventure sports. Go ahead, choose the perfect weekend hotspot from this list.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/getawayWeekned.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/getawayWeekned.jpg",
         "uid": "cecdacf7-fa7f-4ea2-94c7-1c7d45ecc87b"
     },
     {
         "location": "Romantic Places",
         "desc": "Scroll through our list of romantic tourism destinations and plan a passionate getaway with your special someone to surreal valleys, snow-clad mountains, sun-soaked beaches or adventurous wildlife trails. Escape to a quieter location and rejuvenate in a romantic atmosphere.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romantic.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/romantic.jpg",
         "uid": "fb268254-4ed8-48bc-88bc-5cacdc95e4ec"
     },
     {
         "location": "Pilgrimage Spots",
         "desc": "Take a break from your busy routine and seek divine blessings at revered pilgrimages for some much needed peace. Whisper a wish or murmur a prayer of gratitude, and let your next trip be a truly memorable one!",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/pilgrimage.jpg",
         "uid": "a3e1319e-7e6a-474f-a0dd-eddeca0f5a21"
     },
     {
         "location": "Foodie Dreams",
         "desc": "Pamper your taste buds with flavours of different regions. Go on adventures to not just taste but also experience a truly authentic culinary journey. Explore the tiniest of lanes & largest of markets on your next food trail.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodieDreams.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/foodieDreams.jpg",
         "uid": "f16403e3-6a7b-4bee-9335-8ee009ef54a2"
     },
     {
         "location": "Adventure Spots",
         "desc": "Explore adventurous destinations with exciting deals and challenging activities. Spike up your adrenaline and boost your confidence with thrilling treks, camping, water sports, scuba diving, rafting, bungee jumping, sky diving and many more off-beat activities.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventure.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/adventure.jpg",
         "uid": "6beb5e94-202e-4720-bac2-4ea795a40a66"
     },
     {
         "location": "Trekking Hotspots",
         "desc": "Replace the boredom of your daily routine with an epic adventure. Be it soaring in the sky or diving in the sea, explore the best ideas for a thrilling trip. It's time to feel the adrenaline racing through your veins!",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/trekking.png",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/trekking.png",
         "uid": "20894aa7-4a82-4482-ac12-2b29d7e0a0f4"
     },
     {
         "location": "Places to Relax",
         "desc": "Escape the daily routine and humdrum of city life with a relaxing trip to a serene destination. Rejuvenate your body and mind with therapeutic spa treatments, soothing beach walks, flavourful drinks, scrumptious meals and morning meditations.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relax.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/relax.jpg",
         "uid": "6503a6a1-2bb0-4700-8c46-b3a61ae8703a"
     },
     {
         "location": "International Destinations",
         "desc": "Want to learn more about new cultures and new countries? Then this is for the globetrotter in you! Make your next trip truly memorable with these specially curated ideas and feast your senses on jaw-dropping international landscapes and mouthwatering food.",
-        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international.png",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/travelPlaces/international.png",
         "uid": "10342b83-d7f2-405a-98cb-589b47ba3581"
     }
 ]

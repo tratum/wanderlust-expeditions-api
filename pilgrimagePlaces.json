@@ -3,91 +3,91 @@
         "location": "Mathura",
         "subText": "A Spiritual City in Uttar Pradesh",
         "desc": "Mathura is a popular pilgrimage hub. You will love temple hopping, exploring the ghats and the lively Holi celebrations. Mathura is also popular for its heritage monuments.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/mathura/mmt/destination/m_destination_mathura_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/mathura.webp",
         "uid": "4611265a-f5ca-4f49-9297-716cff4a73fc"
     },
     {
         "location": "Vrindavan",
         "subText": "A sacred site for the Hindu deity Krishna.",
         "desc": "Vrindavan, also spelled Vrindaban and Brindaban, is a historic town in Uttar Pradesh's Mathura district. Located in the Braj Bhoomi region, it is a religiously significant place, especially for Hindus as Lord Krishna, the Indian deity, spent most of his early life here. Vrindavan has approximately 5,500 temples devoted solely to Krishna and his supreme consort Radha.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/Vrindavan Cover/mmt/activities/m_Vrindavan_4_l_417_600.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/vrindavan.jpg",
         "uid": "557a2bec-cdcb-4d75-94d8-903a6136cf63"
     },
     {
         "location": "Prayagraj (Allahabad)",
         "subText": "Historical City with Sacred Sites",
         "desc": "Allahabad is famous for its pilgrimage sites. You will love heritage walks, sightseeing and street food tours. Also, don't miss the heritage structures at Allahabad.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pryagraj/mmt/destination/m_Pryagraj_l_503_756.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/prayagraj.webp",
         "uid": "74973392-9553-43c1-bb35-1f0f027b2aff"
     },
     {
         "location": "Pushkar",
         "subText": "Quaint Temple Town in Rajasthan",
         "desc": "Home to rare temples, shrines and picturesque locations, Pushkar in Rajasthan is where tourists throng to find their peace, and lose themselves in the rare beauty of Mother Nature.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pushkar/mmt/destination/m_destination-pushkar-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/pushkar.webp",
         "uid": "8eb6d70d-a64f-44b5-8b3b-ab1363614ad5"
     },
     {
         "location": "Amritsar",
         "subText": "The Spiritual Capital of Punjab",
         "desc": "Soak in the mystic hues of Amritsar, a famous pilgrimage spot! You will love exploring sightseeing attractions and attending various festivals. The local cuisines at Amritsar are worth trying out too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/amritsar/mmt/destination/m_destination_Amritsar_l_367_623.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/amritsar.webp",
         "uid": "209f4c67-0b90-4389-84b5-57c8481bece8"
     },
     {
         "location": "Dwarka",
         "subText": "One of the Char Dhams",
         "desc": "Soak in the mystic hues of Dwarka, a famous pilgrimage spot! You can expect scorching heat which renders venturing out during afternoons, almost impossible. The beaches at Dwarka are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/dwarka/mmt/destination/m_Dwarka_l_524_786.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/dwarka.jpg",
         "uid": "f96cfbb9-000b-48e1-ae13-b67f812ed063"
     },
     {
         "location": "Varanasi",
         "subText": "Uttar Pradesh's Spiritual Capital",
         "desc": "Pilgrimage sites are the highlight of Varanasi. You can expect extremely hot and dry weather. Varanasi also offers many culinary delights.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/varanasi/mmt/destination/m_destination-varanasi-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/varanasi.webp",
         "uid": "95e30364-174a-4f1a-9054-c8c8aa6d1475"
     },
     {
         "location": "Tirupati",
         "subText": "Spiritual City in Andhra Pradesh",
         "desc": "Tirupati is home to the sacred Sri Venkateswara temple, sitting atop the beautiful Tirumala Hills, and thus considered as an epicenter of spiritual devotion.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/Tirupati/mmt/destination/m_tirupati-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/tirupati.jpg",
         "uid": "02a62d4d-d409-45ea-a425-d5a165556ad0"
     },
     {
         "location": "Guwahati",
         "subText": "Assam's Largest City",
         "desc": "Located on the banks of River Brahmaputra against the backdrop of mighty Himalayan Ranges, Guwahati will steal your heart with its magnificent ancient temples, stunning hills, diverse wildlife and sprawling tea plantations.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/guwahati/mmt/destination/m_Guwahati_l_456_722.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/guwahati.webp",
         "uid": "14b7a192-133d-4d15-9561-84f0ab6194bd"
     },
     {
         "location": "Haridwar",
         "subText": "Ancient Pilgrimage Town in Uttarakhand",
         "desc": "Located on the banks of River Ganges, this sacred town is thronged by devotees in large numbers and serves as a gateway to the Char Dhams Kedarnath, Badrinath, Gangotri and Yamunotri.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/haridwar/mmt/destination/m_destination_haridwar_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/haridwar.jpg",
         "uid": "d69c8f81-5959-463b-a7b3-5d1b0d20f008"
     },
     {
         "location": "Kedarnath",
         "subText": "The Land of Lord Shiva",
         "desc": "Located at the base of white, snow-laden peaks in Uttarakhand, and home to one of the most iconic of the Char Dham temples, Kedarnath and its surrounding areas are an important pilgrimage site for Hindus who come here from all over the world.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kedarnath/mmt/activities/m_kedarnath_Destination_l_480_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/kedarnath.webp",
         "uid": "5ecc9d36-2590-4b2c-a457-f165d16d5416"
     },
     {
         "location": "Puri",
         "subText": "Famous Pilgrimage Site in Odisha",
         "desc": "Seek serenity with a pilgrimage to Puri. You can expect extremely hot and humid weather. Additionally, you can also relax by the beaches at Puri.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/puri/mmt/destination/m_destination_puri_landscape_l_327_523.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/puri.webp",
         "uid": "b5883195-8d08-43f2-9711-8c5e315cbf07"
     },
     {
         "location": "Rameshwaram",
         "subText": "Beautiful Pilgrimage Site in Tamil Nadu",
         "desc": "Rameshwaram glistens with sheer divinity. You can expect sunny afternoons with bearable heat. Don't forget to spend some time at the beaches of Rameshwaram.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/rameshwaram/mmt/destination/m_destination_rameshwaram_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/pilgrimage/rameshwaram.jpg",
         "uid": "7926e7f3-4fbb-4c7e-bf74-b39f653faff9"
     }
 ]

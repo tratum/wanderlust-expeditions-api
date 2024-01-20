@@ -3,105 +3,105 @@
         "location": "Gwalior",
         "subText": "The Land of Palaces",
         "desc": "As the cradle of Indian culture and heritage for many centuries, Gwalior is a timeless treasure of art and music. The cityscape is adorned with historical monuments and a hilltop fort that are souvenirs of the dynasties that ruled here.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gwalior/mmt/destination/m_Destination_Gwalior_l_522_822.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/gwalior.webp",
         "uid": "ed0239d9-b5b9-47bc-9765-658178dcf695"
     },
     {
         "location": "Jodhpur",
         "subText": "A Hub of Royal Heritage",
         "desc": "Revel in the rich art and heritage of Jodhpur. You will love desert camping and visiting the forts. Jodhpur also offers many culinary delights.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/jodhpur/mmt/destination/m_destination-jodhpur-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/jodhpur.webp",
         "uid": "fa245f33-ff93-4bbc-960b-2a66f79aa338"
     },
     {
         "location": "Mathura",
         "subText": "One of India's Seven Sacred Cities",
         "desc": "Famous as the birthplace of Lord Krishna and one among the 7 holy cities for Hindus, this city alongside the Yamuna river is an important pilgrimage site.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/mathura/mmt/destination/m_destination_mathura_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/mathura.webp",
         "uid": "2c85d82a-e1d7-40b6-8ca7-45f0351a8a35"
     },
     {
         "location": "Bhubaneshwar",
         "subText": "Odisha's Capital City",
         "desc": "Literally translating to the Lord of the Universe, Bhubaneswar is an ancient city in Odisha that packs in many centuries of fascinating history. Also known as the Temple City of India, it is an educational and cultural hub as well.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bhubaneshwar/mmt/destination/m_Bhubaneshwar_l_553_830.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/bhubaneshwar.webp",
         "uid": "158b24d5-7ba9-42de-b53b-525e94c91911"
     },
     {
         "location": "Udaipur",
         "subText": "The city of lakes and palaces!",
         "desc": "Soak in the ancient tales and heritage of Udaipur. You will love exploring the beautiful palaces, temples, sun-kissed gardens and boat rides across the lakes. The local cuisines at Udaipur are worth trying out too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/udaipur/mmt/destination/m_destination-udaipur-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/udaipur.webp",
         "uid": "26bc4da4-128f-4813-be41-06d6042ce21d"
     },
     {
         "location": "Vrindavan",
         "subText": "A sacred site for the Hindu deity Krishna.",
         "desc": "Vrindavan, also spelled Vrindaban and Brindaban, is a historic town in Uttar Pradesh's Mathura district. Located in the Braj Bhoomi region, it is a religiously significant place, especially for Hindus as Lord Krishna, the Indian deity, spent most of his early life here. Vrindavan has approximately 5,500 temples devoted solely to Krishna and his supreme consort Radha.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/Vrindavan Cover/mmt/activities/m_Vrindavan_4_l_417_600.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/vrindavan.jpg",
         "uid": "8310c5f5-d979-4df4-8ddd-5ec71ade5a44"
     },
     {
         "location": "Aurangabad",
         "subText": "Explore Jaw Dropping World Heritage Sites",
         "desc": "With well-preserved remnants of historic sites, Aurangabad is an ancient town about eight hours drive from Mumbai by road. It is known for its historical monuments, culturally rich museums and proximity to the renowned UNESCO World Heritage caves at Ajanta and Ellora.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/aurangabad/mmt/destination/m_aurangabad_destination_l_553_852.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/aurangabad.webp",
         "uid": "9983bf2f-a70b-475d-8fce-c88b1ec1275d"
     },
     {
         "location": "Thimpu",
         "subText": "Scenic Mountain Destination in Bhutan",
         "desc": "Thimphu will fascinate you with its rich heritage. You will love the lush valleys, blossoming flowers and lively festivals. Thimphu is also a popular wildlife destination.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/thimpu/mmt/destination/m_thimpu-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/thimpu.webp",
         "uid": "d90e35e9-bd8f-4f31-a800-b9cb622a659c"
     },
     {
         "location": "Hanoi",
         "subText": "Vietnam's Culturally-Rich Capital City",
         "desc": "Soak in the ancient tales and heritage of Hanoi. You will love sightseeing, festivals and outdoor activities. The local cuisines at Hanoi are worth trying out too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/hanoi/mmt/destination/m_destination_hanoi_landscape_l_341_546.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/hanoi.webp",
         "uid": "8d9afd35-35ff-4beb-8d53-0f7e70c22623"
     },
     {
         "location": "Lucknow",
         "subText": "Culturally Rich City in Uttar Pradesh",
         "desc": "Lucknow doles out a rich cultural experience. You will love sightseeing, shopping, and relishing the local dishes. Lucknow also offers many culinary delights.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lucknow/mmt/destination/m_destination_lucknow_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/lucknow.jpg",
         "uid": "19cc4967-74dd-46bb-a8b3-84c21c8be9fa"
     },
     {
         "location": "Mysore",
         "subText": "Scenic Royal City in Karnataka",
         "desc": "The City of Palaces, Mysore revels in its vibrant history, and rich arts and culture. It allures tourists with its grand palaces, majestic temples, and landscaped gardens.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/mysore/mmt/destination/m_destination-mysore-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/mysore.jpg",
         "uid": "49e9c2f6-ec57-42c9-8ffc-6f93547f8c62"
     },
     {
         "location": "Hampi",
         "subText": "Open Air Museum in Karnataka",
         "desc": "The renowned UNESCO World Heritage Site and the once-magnificent capital of the Vijayanagara Empire; Hampi attracts backpackers and pilgrims in equal numbers due to its intriguing ruins of forts and temples.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/hampi/mmt/destination/m_Hampi-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/hampi.webp",
         "uid": "3f26b3ec-18cd-445c-b5b9-173a663b4a93"
     },
     {
         "location": "Kochi",
         "subText": "A Charming Port City in Kerala",
         "desc": "Cochin is a destination steeped in heritage. You can expect hot and humid weather. The beaches at Cochin are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/ernakulum/mmt/destination/m_ernakulum-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/kochi.webp",
         "uid": "81c37121-757f-4c44-ac7d-ff7cce196b7f"
     },
     {
         "location": "Pushkar",
         "subText": "Quaint Temple Town in Rajasthan",
         "desc": "Home to rare temples, shrines and picturesque locations, Pushkar in Rajasthan is where tourists throng to find their peace, and lose themselves in the rare beauty of Mother Nature.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pushkar/mmt/destination/m_destination-pushkar-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/pushkar.webp",
         "uid": "9d154b7e-e2cc-4cc1-8b70-daba75a178ac"
     },
     {
         "location": "Rishikesh",
         "subText": "Adventure Hub of Uttarakhand",
         "desc": "Known as the Yoga Capital of the World, Rishikesh is a serene Himalayan town nestled on the banks of River Ganges. It is famous for its ancient temples, hippie cafes and dare-devil adventure sports.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/rishikesh/mmt/destination/m_rishikesh-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/heritagePlaces/rishikesh.jpg",
         "uid": "735a3e21-7c80-462c-b7b8-530b81159494"
     }
 ]

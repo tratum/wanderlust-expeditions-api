@@ -3,70 +3,70 @@
         "location": "Alleppey",
         "subText": "Nature Lover's Paradise in Kerala",
         "desc": "If relaxation is what you're after, head to Alleppey. You will love exploring the backwaters and houseboat stays. Don't forget to spend some time at the beaches of Alleppey.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/alleppey/mmt/destination/m_destination-alleppey-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/alleppey.webp",
         "uid": "dca357a6-6a01-4091-b800-4c5d212fde71"
     },
     {
         "location": "Chail",
         "subText": "A Charming and Tranquil Hill Station",
         "desc": "Enjoy bliss in the midst of nature at the splendid Chail. You will love sightseeing, trekking, adventure sports, watching stars and exploring nature. You will also enjoy exploring the mountains at Chail.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/chail/mmt/activities/m_destiantion_Chail_l_502_753.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/chali.jpg",
         "uid": "9ead0ad7-76b0-4db8-b4b8-c2000d745277"
     },
     {
         "location": "Da Nang",
         "subText": "Scenic Coastal City in Vietnam",
         "desc": "Sign up for a relaxing break at Da Nang. You can expect warm weather with slightly cooler evenings. Don't forget to spend some time at the beaches of Da Nang.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/da_nang/mmt/destination/m_destiantion_danang_landscape_l_329_527.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/danNang.webp",
         "uid": "1361cb9d-dacd-426e-b0ff-c5e13518d034"
     },
     {
         "location": "Dhanaulti",
         "subText": "A pleasant summer retreat and a snowy winter wonderland!",
         "desc": "If relaxation is what you're after, head to Dhanaulti. You can expect pleasant sunny days with mildly chilly nights. The mountain vistas at Dhanaulti are spectacular too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/dhanaulti/mmt/destination/m_Destination_Dhanaulti_l_534_801.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/dhanaulti.jpg",
         "uid": "fe887817-c06e-4bb3-b44d-04c000f0128f"
     },
     {
         "location": "Ranikhet",
         "subText": "Erstwhile British Summer Retreat",
         "desc": "Enjoy a blissful break at serene Ranikhet. You will love breathtaking landscapes and nature's full bloom during spring. Don't forget to explore the beautiful mountains around Ranikhet.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/ranikhet/mmt/destination/m_Ranikhet_l_488_713.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/rankhet.webp",
         "uid": "df07e2f2-6aef-4c3c-ab8b-84fced49b2d2"
     },
     {
         "location": "Kovalam",
         "subText": "Scenic Beach Town in Kerala",
         "desc": "Enjoy bliss in the midst of nature at the splendid Kovalam. You will love water sports and beach activities. The beaches at Kovalam are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kovalam/mmt/destination/m_destination-kovalam-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/kovalam.jpg",
         "uid": "d92131a1-5733-4fda-9834-2c03819fb921"
     },
     {
         "location": "Lakshadweep",
         "subText": "Tropical Band of Islands",
         "desc": "Lakshadweep is the perfect getaway for relaxation-seekers. You can expect summer heat and the temperature rising upto 32 degree Celsius . You can also explore the beautiful beaches of Lakshadweep.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lakshadweep/mmt/destination/m_Lakshadweep_l_580_870.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/lakshadweep.webp",
         "uid": "b85176fa-765b-4312-ae9a-314b960e5380"
     },
     {
         "location": "Krabi",
         "subText": "Tropical Paradise in Thailand",
         "desc": "Enjoy a blissful break at serene Krabi. You will love the beaches and water sports. You will also enjoy the beaches at Krabi.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/krabi/mmt/destination/m_krabi-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/krabi.webp",
         "uid": "a0bdc22d-404f-4eeb-8cd5-8591d968a31e"
     },
     {
         "location": "Kasauli",
         "subText": "Colonial-Era Retreat in Himachal Pradesh",
         "desc": "Surrender to the tranquillity of Kasauli. You can expect chilly but enjoyable weather. The mountain views from Kasauli are an added bonus.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kasauli/mmt/destination/m_destination-kasauli-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/kasauli.webp",
         "uid": "972e061b-9593-4ba4-8d34-7e1e974fbe78"
     },
     {
         "location": "Gokarna",
         "subText": "Scenic Temple Town in Karnataka",
         "desc": "The calm-inducing aura of Gokarna will soothe your senses. You can expect extremely hot and humid weather. The pilgrimage sites at Gokarna are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gokarna/mmt/destination/m_destination_gokarna_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/relaxingPlaces/gokarna.webp",
         "uid": "5cd83df8-596e-4b0a-902c-db7dcfbf346e"
     }
 ]

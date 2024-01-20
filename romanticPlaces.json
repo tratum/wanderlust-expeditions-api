@@ -3,70 +3,70 @@
         "location": "Bali",
         "subText": "Tropical Beach Paradise",
         "desc": "Celebrate your romance with a couple getaway at Bali. You can expect frequent heavy rainfalls with high humidity levels. Don't forget to sample the delicious cuisines at Bali.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bali/mmt/destination/m_bali_l_393_629.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/bali.webp",
         "uid": "d765dd37-66c3-48bc-ae5d-1d4282680d73"
     },
     {
         "location": "Coorg",
         "subText": "Scenic Hill Station in Karnataka",
         "desc": "Romance on your mind? Plan a trip to Coorg. You can expect pleasant day temperatures with the possibility of a drizzle. The wildlife spottings at Coorg are an added bonus.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/coorg/mmt/destination/m_destination-coorg-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/coorg.jpg",
         "uid": "47310354-5699-44c7-bfcf-9345bce41a20"
     },
     {
         "location": "Bentota",
         "subText": "Fun-Packed Beach Destination in Sri Lanka",
         "desc": "Bentota is an absolute delight for romantic souls. You will love sightseeing and water sports. You will also enjoy the beaches at Bentota.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bentota/mmt/destination/m_bentota-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/bentota.webp",
         "uid": "c1748eff-2632-4bd6-b863-9574bd94ba47"
     },
     {
         "location": "Gulmarg",
         "subText": "Heaven in the White Hills of Kashmir",
         "desc": "Celebrate your romance with a couple getaway at Gulmarg. You can expect the temperatures drop down to below freezing. The mountain views from Gulmarg are an added bonus.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gulmarg/mmt/destination/m_destination-gulmarg-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/gulmarg.jpg",
         "uid": "f3ec94fa-959f-4fb0-965b-16e8409e81df"
     },
     {
         "location": "Havelock Island",
         "subText": "Picturesque Tropical Getaway in the Andamans",
         "desc": "Havelock is an absolute delight for romantic souls. You can expect extremely hot days with temperatures reaching up to 32C. Don't forget to indulge in adventure activities at Havelock.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/havelock/mmt/destination/m_destination_havelock_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/havelock.jpg",
         "uid": "af0e7d4d-326c-448d-ad48-df9511614b98"
     },
     {
         "location": "Lakshadweep",
         "subText": "Tropical Band of Islands",
         "desc": "If you are a romantic at heart, you will love Lakshadweep. You can expect summer heat and the temperature rising upto 32 degrees. The beaches at Lakshadweep are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lakshadweep/mmt/destination/m_Lakshadweep_l_580_870.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/lakshadweep.webp",
         "uid": "7861f969-e962-423e-b72b-7404e2961713"
     },
     {
         "location": "Langkawi",
         "subText": "Malaysia's Tropical Beachside Paradise",
         "desc": "Rekindle your romance at Langkawi. You can expect pleasant temperatures with drizzles during evenings. You can also explore the beautiful beaches of Langkawi.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/langkawi/mmt/destination/m_langkawi-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/langkawi.webp",
         "uid": "4dc4f235-a7a1-4ac8-a785-a0950f0f70e7"
     },
     {
         "location": "Manali",
         "subText": "Say hello to hippie villages and scenic valleys.",
         "desc": "Manali is the perfect escape for romance-seekers. You will love the waterfalls and adventure sports. Additionally, you can try out various adventure activities at Manali.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/manali/mmt/destination/m_Landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/manali.jpg",
         "uid": "c39a320e-a191-4e11-bdb6-74d6e130da64"
     },
     {
         "location": "Munnar",
         "subText": "Exotic Tea Paradise in Kerala",
         "desc": "Munnar is an absolute delight for romantic souls. You can expect pleasant weather throughout the day. The wildlife spottings at Munnar are an added bonus.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/munnar/mmt/destination/m_destination-munnar-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/munnar.jpg",
         "uid": "63953729-be0f-4b55-a9da-ed01f76f4ce9"
     },
     {
         "location": "Ooty",
         "subText": "Colonial Hill Station in Tamil Nadu",
         "desc": "Ooty is the perfect escape for romance-seekers. You can expect pleasant weather with temperatures not rising beyond 20 degree Celsius. Don't forget to indulge in adventure activities at Ooty.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/destination/m_destination-ooty-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/romanticPlaces/ooty.webp",
         "uid": "38927920-f46c-4863-9e2d-7df4df96c09e"
     }
 ]

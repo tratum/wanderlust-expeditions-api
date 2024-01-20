@@ -3,77 +3,77 @@
         "location": "Leh",
         "subText": "White Paradise in Ladakh",
         "desc": "Enjoy an adventure-packed vacay at Leh. You will love sightseeing and the surreal vistas of snow-capped mountains. The wildlife spottings at Leh are an added bonus.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/leh/mmt/destination/m_leh-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/leh.jpg",
         "uid": "7c39556a-64b3-43be-b2f5-279d1f880255"
     },
     {
         "location": "Dubai",
         "subText": "Ultramodern Desert City in the United Arab Emirates",
         "desc": "Dubai is a haven for adventurous souls! You will love sightseeing and outdoor activities. Dubai also offers many culinary delights.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/dubai/mmt/destination/m_Dubai_activity_adventure_l_453_681.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/dubai.webp",
         "uid": "ade937f9-4880-4a00-b0ae-96910f8b56e5"
     },
     {
         "location": "Rishikesh",
         "subText": "Adventure Hub of Uttarakhand",
         "desc": "Rishikesh is a delight for adventure buffs. You can expect hot and humid weather. The pilgrimage sites at Rishikesh are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/rishikesh/mmt/destination/m_rishikesh-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/rishikesh.jpg",
         "uid": "f9ea9bb2-8e12-4738-970b-8e350f2519fe"
     },
     {
         "location": "Singapore",
         "subText": "Complete Family Destination",
         "desc": "Unleash the adventure enthusiast in you at Singapore. You can expect moderate temperatures along with humidity. Singapore is also a popular wildlife destination.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/singapore/mmt/destination/m_singapore-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/singapore.webp",
         "uid": "e7807e76-bb2f-4280-9010-c4c44871d660"
     },
     {
         "location": "Neemrana",
         "subText": "Rajasthan's Magnificent Historical Town",
         "desc": "Take on the adventures at Neemrana to pump up your adrenalin! You will love sightseeing, adventure activities, and the Navratri and Diwali celebrations. The heritage monuments in Neemrana will also charm you.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/Neemrana/mmt/destination/m_destination_Neemrana_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/neemrana.webp",
         "uid": "e7eb5fc1-26ee-4fda-b04c-07fda224bccf"
     },
     {
         "location": "Kutch",
         "subText": "Offbeat Desert Destination in Gujarat",
         "desc": "Enjoy an adventure-packed vacay at Rann of Kutch. You can expect extremely hot and humid days with temperatures soaring as high as 48 degree Celsius. You can also spot wildlife at Rann of Kutch.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kutch/mmt/destination/m_destination_kutch_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/kutch.webp",
         "uid": "da4fcb56-81e3-48b8-9382-ad68952d0e4d"
     },
     {
         "location": "Kasol",
         "subText": "Mini Israel in Himachal Pradesh",
         "desc": "Kasol is a haven for adventurous souls! You will love trekking, camping, festivals and parties. Also, do not miss the spellbinding mountain views at Kasol.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/kasol/mmt/destination/m_destination-kasol-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/kasol.webp",
         "uid": "d07b4b78-a661-4110-931a-002060df815b"
     },
     {
         "location": "Gulmarg",
         "subText": "Heaven in the White Hills of Kashmir",
         "desc": "The adventurous offerings of Gulmarg will rejuvenate your senses! You can expect the temperatures drop down to below freezing. You will also enjoy exploring the mountains at Gulmarg.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/gulmarg/mmt/destination/m_destination-gulmarg-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/gulmarg.jpg",
         "uid": "99e05b2e-a839-4860-8b06-62b743366f15"
     },
     {
         "location": "Havelock Island",
         "subText": "Picturesque Tropical Getaway in the Andamans",
         "desc": "Havelock has umpteen adventures in store for you. You can expect extremely hot days with temperatures reaching up to 32 degree Celsius. You will also enjoy the beaches at Havelock.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/havelock/mmt/destination/m_destination_havelock_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/havelock.jpg",
         "uid": "3c7aef67-1eda-42ce-b6b2-01f67c371488"
     },
     {
         "location": "Goa",
         "subText": "Popular for beaches and nightlife",
         "desc": "Goa is a haven for adventurous souls! You can expect very hot weather with high humidity levels. Goa is a hot favourite among foodies too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/goa/mmt/destination/m_destination-goa-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/goa.webp",
         "uid": "7c18c1eb-48a1-4188-aa04-c8ed1541cf5f"
     },
     {
         "location": "Bentota",
         "subText": "Fun-Packed Beach Destination in Sri Lanka",
         "desc": "The adventurous offerings of Bentota will rejuvenate your senses! You will love sightseeing and water sports. You can also explore the beautiful beaches of Bentota.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bentota/mmt/destination/m_bentota-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/adventurePlaces/bentota.webp",
         "uid": "b88c7520-2fbc-48f5-8565-2732a734724e"
     }
 ]

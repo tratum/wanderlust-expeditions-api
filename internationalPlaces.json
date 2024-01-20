@@ -3,77 +3,77 @@
         "location": "Baku",
         "subText": "The Commercial Hub of Azerbaijan",
         "desc": "Baku is the capital city of Azerbaijan, a country located on the Caspian Sea. It is the largest city in Azerbaijan and a major cultural, economic, and political centre of the country. Baku has a rich history and culture, with evidence of human settlements dating back to the 4th millennium BCE. Today, Baku is a modern and vibrant city, known for its stunning architecture, beautiful parks, and bustling streets.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bakuimg/mmt/activities/m_Baku_tiow_main2_update_l_549_823.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/baku.webp",
         "uid": "b18ef3b9-1799-49fb-8821-a729d4cd08b0"
     },
     {
         "location": "Paro",
         "subText": "Scenic Small Town in Bhutan",
         "desc": "Paro is an ideal destination for heritage buffs. You will love the festivals and lush valley views. You will also enjoy exploring the mountains at Paro.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/paro/mmt/destination/m_paro-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/paro.webp",
         "uid": "a49c7edf-90cd-47cf-95df-52eec861fbc7"
     },
     {
         "location": "Bali",
         "subText": "Tropical Beach Paradise",
         "desc": "Embark upon sizzling gastronomic experiences in Bali. You can expect frequent heavy rainfalls with high humidity levels. You will also enjoy the beaches at Bali.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bali/mmt/destination/m_bali_l_393_629.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/bali.webp",
         "uid": "9c53be49-b837-4c2b-8f61-8d5ffd2230f9"
     },
     {
         "location": "Abu Dhabi",
         "subText": "One of the World's Richest Cities",
         "desc": "Exciting adventures await you at Abu Dhabi. You will love shopping jackpots and perfect conditions for sightseeing the attractions or relaxing at the seashore. Also, don't miss the heritage structures at Abu Dhabi.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/abu_dhabi/mmt/destination/m_Abu Dhabi_p_560_560.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/abu-dhabi.jpg",
         "uid": "41bc55e6-ea7f-406c-a317-99d498d3a085"
     },
     {
         "location": "Bentota",
         "subText": "Fun-Packed Beach Destination in Sri Lanka",
         "desc": "Come and fall in love with the beach vibe of Bentota. You will love sightseeing and water sports. You can also unwind amidst the tranquil surroundings of Bentota.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bentota/mmt/destination/m_bentota-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/bentota.webp",
         "uid": "c29d0861-b71d-4ba5-b181-3eff9cb4a3fa"
     },
     {
         "location": "Hanoi",
         "subText": "Vietnam's Culturally-Rich Capital City",
         "desc": "Hanoi is all about history and heritage. You will love sightseeing, festivals and outdoor activities. The local cuisines at Hanoi are worth trying out too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/hanoi/mmt/destination/m_destination_hanoi_landscape_l_341_546.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/hanoi.webp",
         "uid": "e6955ad1-c6bf-424d-93f3-6313b59c1edf"
     },  
     {
         "location": "Krabi",
         "subText": "Tropical Paradise in Thailand",
         "desc": "If you love watching the ocean, then Krabi is home to gorgeous beaches. You will love the beaches and water sports. Krabi is also very popular among relaxation-seekers.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/krabi/mmt/destination/m_krabi-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/krabi.webp",
         "uid": "b79dff31-4b57-4b42-b086-63b4317e95fe"
     },
     {
         "location": "Mykonos",
         "subText": "The Ultimate Party Destination",
         "desc": "An intrinsic part of the Cyclades Islands in the Aegean Sea, the Greek Island of Mykonos is all about age-old churches with stony white-washed fades, historical museums, exotic beaches, exciting bars and restaurants, dance clubs and luxury cruises.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/mykonos/mmt/destination/m_Mykonos_l_449_673.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/mykonos.webp",
         "uid": "eb433f24-09d4-4ab1-bf96-9a71861ab4f2"
     },
     {
         "location": "Tokyo",
         "subText": "A Bustling Metropolis in Japan",
         "desc": "Soak in the rich culture and heritage of Tokyo. You will love the stunning cherry blossoms, fairs and festivals. The local cuisines at Tokyo are worth trying out too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/tokyo/mmt/destination/m_Tokyo_l_466_697.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/tokyo.webp",
         "uid": "bc64ee54-8d24-421c-8920-c62174aab327"
     },
     {
         "location": "Barcelona",
         "subText": "The City of Art & Architecture",
         "desc": "Founded as a Roman city, present day Barcelona is the capital of Spain's Catalonia region. Standing as an embodiment of model architecture and classic art, the city is known for its many attractions designed by Antoni Gaudi.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/barcelona/mmt/destination/m_Barcelona_New_l_405_1119.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/barcelona.webp",
         "uid": "6e06df7b-488f-4537-911e-812f009b134f"
     },
     {
         "location": "Istanbul",
         "subText": "Gateway to Europe",
         "desc": "If you love history and heritage, Istanbul is the perfect getaway. You can expect low temperatures with windy weather. Istanbul is a hot favourite among foodies too.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/istanbul/mmt/destination/m_Destination_Istanbul_l_509_784.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/international/istanbul.webp",
         "uid": "906691e5-d1da-476b-ba10-87b6f5c99afd"
     }
 ]

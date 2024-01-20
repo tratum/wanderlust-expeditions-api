@@ -3,77 +3,77 @@
         "location": "Amritsar",
         "subText": "The Spiritual Capital of Punjab",
         "desc": "Food is going to be the highlight of your trip to Amritsar. You will love exploring sightseeing attractions and attending various festivals. You can also explore the pilgrimage sites at Amritsar.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/amritsar/mmt/destination/m_destination_Amritsar_l_367_623.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/amritsar.webp",
         "uid": "6b8c1d33-6411-48fc-a632-6568a5a22428"
     },
     {
         "location": "Agra",
         "subText": "Fascinating Mughal City in Uttar Pradesh",
         "desc": "If food is your fetish, then a journey to Agra is a must! You will love shopping and sightseeing. Agra is also popular for its heritage monuments.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/agra/mmt/destination/m_destination-agra-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/agra.webp",
         "uid": "76d8229f-0b77-4e1d-9251-9177b582d3a2"
     },
     {
         "location": "Bangkok",
         "subText": "The Dynamic Capital of Thailand",
         "desc": "Come and relish the culinary delights of Bangkok. You can expect high temperatures and humidity. Also, don't miss the heritage structures at Bangkok.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/bangkok/mmt/destination/m_Bangkok-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/bangkok.webp",
         "uid": "0b7a3677-ceda-406e-9a6a-52ede808c40b"
     },
     {
         "location": "Kolkata",
         "subText": "Bengal's cultural and artistic capital",
         "desc": "Kolkata is a haven for foodies. You will love boat rides, street food binges, visiting nearby beaches, enjoying Durga Puja festivities. The heritage monuments in Kolkata will also charm you.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/Kolkata/mmt/destination/m_destination_Kolkata_l_411_691.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/kolkata.webp",
         "uid": "bffe35a2-54b0-4161-8f6c-4bf2f58c4ad7"
     },
     {
         "location": "Hyderabad",
         "subText": "The City of Pearls",
         "desc": "If you are a foodie, head straight to Hyderabad. You will love visiting historical monuments, going on city tours and shopping from vibrant markets. You can also admire the heritage landmarks at Hyderabad.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/sasan/mmt/destination/m_activities_hyderabad_destination_l_430_646.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/hyderabad.webp",
         "uid": "f0172ac9-0ad9-417e-96f7-d8920997b922"
     },
     {
         "location": "Malvan",
         "subText": "Hidden Gem along Maharashtra's Coast",
         "desc": "Embark upon sizzling gastronomic experiences in Malvan. You can expect hot and humid weather. You can also explore the beautiful beaches of Malvan.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/malvan/mmt/destination/m_Malvan_l_636_847.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/malvan.webp",
         "uid": "7d28d67d-c63b-43be-badb-3dd8e915ac04"
     },
     {
         "location": "Tokyo",
         "subText": "A Bustling Metropolis in Japan",
         "desc": "Tokyo is a haven for foodies. You will love the stunning cherry blossoms, fairs and festivals. Additionally, explore the rich heritage of Tokyo.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/tokyo/mmt/destination/m_Tokyo_l_466_697.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/tokyo.webp",
         "uid": "547a8fe4-34df-4309-9cd7-56100ffd66e4"
     },
     {
         "location": "Delhi",
         "subText": "Capital City of India",
         "desc": "The culinary treasures of Delhi make it popular among foodies. You will love open-air cultural events, picnics, shopping, rooftop brunches and city sightseeing. The heritage monuments in Delhi will also charm you.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/delhi/mmt/destination/m_destinations_Delhi_l_502_809.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/delhi.jpg",
         "uid": "e601a202-080d-4132-a1fa-3aa9d6daed42"
     },
     {
         "location": "Hanoi",
         "subText": "Vietnam's Culturally-Rich Capital City",
         "desc": "If food is your fetish, then a journey to Hanoi is a must! You will love sightseeing, festivals and outdoor activities. Also, don't miss the heritage structures at Hanoi.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/hanoi/mmt/destination/m_destination_hanoi_landscape_l_341_546.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/hanoi.webp",
         "uid": "f59a7a45-8d24-4ea0-a82a-4af6bb5d5499"
     },
     {
         "location": "Pattaya",
         "subText": "Beachside Resort Town in Thailand",
         "desc": "Embark upon sizzling gastronomic experiences in Pattaya. You can expect hot and humid weather. The beaches at Pattaya are also worth exploring.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/pattaya/mmt/destination/m_pattaya-landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/pattaya.jpg",
         "uid": "45549f6a-ddd0-4371-bb81-c7f67f8f8bd4"
     },
     {
         "location": "Vadodara",
         "subText": "Cultural Capital of Gujarat",
         "desc": "If you are a foodie, head straight to Vadodara. You can expect hot and humid weather with heavy rainfall during the monsoon months. Vadodara is also popular for its heritage monuments.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/vadodara/mmt/destination/m_vadodara_landscape_l_400_640.jpg",
+        "imgLink": "https://tratum.github.io/wanderlust-expeditions-api/images/foodiePlaces/vadodara.webp",
         "uid": "91754a91-8e91-44bd-aa06-444c36f68216"
     }
 ]

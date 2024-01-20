@@ -42,11 +42,11 @@
         "uid": "d92131a1-5733-4fda-9834-2c03819fb921"
     },
     {
-        "location": "Maldives",
-        "subText": "A Stunning Tropical Getaway",
-        "desc": "If relaxation is what you're after, head to Maldives. You will love the beach activities and island hopping. Don't forget to spend some time at the beaches of Maldives.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/maldives/mmt/destination/m_Maldives_l_400_640.jpg",
-        "uid": "5e474e49-a52e-4f66-87ce-5de4187688d4"
+        "location": "Lakshadweep",
+        "subText": "Tropical Band of Islands",
+        "desc": "Lakshadweep is the perfect getaway for relaxation-seekers. You can expect summer heat and the temperature rising upto 32 degree Celsius . You can also explore the beautiful beaches of Lakshadweep.",
+        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lakshadweep/mmt/destination/m_Lakshadweep_l_580_870.jpg",
+        "uid": "b85176fa-765b-4312-ae9a-314b960e5380"
     },
     {
         "location": "Krabi",
@@ -54,13 +54,6 @@
         "desc": "Enjoy a blissful break at serene Krabi. You will love the beaches and water sports. You will also enjoy the beaches at Krabi.",
         "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/krabi/mmt/destination/m_krabi-landscape_l_400_640.jpg",
         "uid": "a0bdc22d-404f-4eeb-8cd5-8591d968a31e"
-    },
-    {
-        "location": "Lakshadweep",
-        "subText": "Tropical Band of Islands",
-        "desc": "Lakshadweep is the perfect getaway for relaxation-seekers. You can expect summer heat and the temperature rising upto 32 degree Celsius . You can also explore the beautiful beaches of Lakshadweep.",
-        "imgLink": "https://hblimg.mmtcdn.com/content/hubble/img/lakshadweep/mmt/destination/m_Lakshadweep_l_580_870.jpg",
-        "uid": "b85176fa-765b-4312-ae9a-314b960e5380"
     },
     {
         "location": "Kasauli",
